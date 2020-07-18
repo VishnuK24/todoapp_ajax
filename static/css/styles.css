@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+#main-header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+#taskCard:hover {
+    cursor: pointer;
+}
